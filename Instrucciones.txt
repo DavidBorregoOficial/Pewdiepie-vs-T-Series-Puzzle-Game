@@ -1,8 +1,0 @@
-Controles = 
-P -> Pausa
-Esc -> Quit
-Click derecho -> Coger Objetos
-w,a,s,d -> controles de movimiento del personaje
-space -> Salto
-E -> abrir puertas y encender televisor, rebobinar
-C-> para apagar el televisor
